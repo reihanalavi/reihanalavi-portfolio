@@ -1,6 +1,7 @@
 const INFO = {
 	main: {
 		title: "Reihan Alavi",
+		description: "Hi! I'm Reihan, a Game and Website Development Enthusiast.",
 		name: "Ahmad Reihan Alavi",
 		email: "reihanalavi@gmail.com",
 		logo: "../ava.jpeg",
@@ -22,7 +23,7 @@ const INFO = {
 	about: {
 		title: "My place is in Jepara, Indonesia. It's where it all starts.",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I'm a second-year undergraduate student at Universitas Diponegoro, majoring in Computer Science/Informatics. My interest in software development brings me to be an always-curious person in how people's need to help their activities. In a case of developing software, it's not just me to write the code as what the requirements do, it's not. More than that, I love the process when helping them to clarify what they need the most, the process when iterating the blueprints such as databases, experiences, and keep monitoring it to know what comes after, whether problems to solve or innovations to improve.",
 	},
 
 	// articles: {
@@ -190,7 +191,7 @@ const INFO = {
 				"Collaboration with Duta Bahasa Provinsi Jawa Tengah, an educational game about foreign words equivalencies in Indonesian and Javanese.",
 			logo: "../sima.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://play.google.com/store/apps/details?id=com.reihanalavi.petualangansima",
 			stacks: [
 				{
 					logo: "c3",

@@ -72,7 +72,7 @@ const Homepage = () => {
 		<React.Fragment>
 			<Helmet>
 				<title>{INFO.main.title}</title>
-				<meta name="description" content={currentSEO.description} />
+				<meta name="description" content={INFO.main.description} />
 				<meta
 					name="keywords"
 					content={currentSEO.keywords.join(", ")}
