@@ -15,6 +15,18 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./jatiprima_work.png"
+								alt="jatiprima_work"
+								className="work-image"
+							/>
+							<div className="work-title">PT. Jati Prima Furniture Jepara</div>
+							<div className="work-subtitle">
+								Full Stack Developer
+							</div>
+							<div className="work-duration">2023 - Present</div>
+						</div>
+						<div className="work">
+							<img
 								src="./leolit.png"
 								alt="leolit"
 								className="work-image"
@@ -45,7 +57,7 @@ const Works = () => {
 							/>
 							<div className="work-title">SMAN 1 Jepara</div>
 							<div className="work-subtitle">
-								Game Development RnD Team Assistant
+								Game Development RnD Assistant
 							</div>
 							<div className="work-duration">2021 - 2022</div>
 						</div>
