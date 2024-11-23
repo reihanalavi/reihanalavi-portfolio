@@ -56,6 +56,17 @@ const NavBar = (props) => {
 								}
 							>
 								<Link to="/contact">Contact</Link>
+								
+							</li>
+							<li
+								className={
+									active === "privacy-policy"
+										? "nav-item active"
+										: "nav-item"
+								}
+							>
+								<Link to="/privacy-policy">Privacy Policy</Link>
+								
 							</li>
 						</ul>
 					</div>

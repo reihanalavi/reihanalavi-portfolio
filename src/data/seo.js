@@ -33,6 +33,12 @@ const SEO = [
 			"Let's Get in Touch: Ways to Connect with Me.",
 		keywords: ["Reihan", "Alavi", "Reihan Alavi", "Game Developer", "Web Developer"],
 	},
+	{
+		page: "privacy-policy",
+		description:
+			"Privacy Policy",
+		keywords: ["Reihan", "Alavi", "Reihan Alavi", "Game Developer", "Web Developer"],
+	},
 ];
 
 export default SEO;
