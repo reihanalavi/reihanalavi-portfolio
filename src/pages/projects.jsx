@@ -52,7 +52,7 @@ const Projects = () => {
 						</div>
 
 						<div className="subtitle projects-subtitle">
-						I've been exploring Game Development for 6 years using Construct 3 Game Engine, while still building experiences in Web Development in these 2 years using React.js and MongoDB. I also exploring Android Development using Kotlin. There are also other tech stacks I use to support my software development, such as Firebase and AWS. In a way on blueprinting and brainstorming, I am familiar in using Figma, Miro, and project-management tools such as Notion and Trello.
+						With 6 years of experience in Game Development using Construct 3, I’ve developed a strong creative and technical mindset. In the last 2 years, I’ve shifted my primary focus to Web Development, currently working with Next.js for the frontend and Laravel for the backend to build full-stack applications. I’ve also explored Android Development using Kotlin, and regularly integrate tools like Firebase and AWS to support scalable and real-time features. For design and collaboration, I’m experienced with Figma, Miro, and project-management platforms like Notion and Trello.
 						</div>
 						
 						<div className="projects-list">

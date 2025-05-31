@@ -17,13 +17,13 @@ const INFO = {
 	homepage: {
 		title: "Hi! I'm Reihan, a Game and Website Development Enthusiast.",
 		description:
-			"I am interested in the software development sub-field, focusing on Game and Web development. As a Game Development enthusiast, taking responsibility as a Game Designer building concepts, principles, and rules for the game and also a Game Programmer to code the magic blueprints. In the field of Web Development, I worked as a UI/UX Designer to enhance user experiences through design interfaces but also a Programmer to translate the design in a cool way (re: code) . Adaptive to new workspaces and environments, and enjoy working collaboratively.",
+			"I’m a Web Development enthusiast focused on building dynamic, user-centric applications using Next.js for the frontend and Laravel for the backend. With experience in both UI/UX design and frontend/backend programming, I enjoy creating seamless digital experiences—from designing intuitive interfaces to translating them into clean, maintainable code. I thrive in collaborative environments, adapt quickly to new technologies, and enjoy solving real-world problems through modern web frameworks and best practices. Previously involved in Game Development as well, I bring a creative mindset and an understanding of interaction design that enriches my approach to web projects.",
 	},
 
 	about: {
 		title: "My place is in Jepara, Indonesia. It's where it all starts.",
 		description:
-			"I'm a second-year undergraduate student at Universitas Diponegoro, majoring in Computer Science/Informatics. My interest in software development brings me to be an always-curious person in how people's need to help their activities. In a case of developing software, it's not just me to write the code as what the requirements do, it's not. More than that, I love the process when helping them to clarify what they need the most, the process when iterating the blueprints such as databases, experiences, and keep monitoring it to know what comes after, whether problems to solve or innovations to improve.",
+			"I'm a final-year undergraduate student at Universitas Diponegoro, majoring in Computer Science/Informatics. My interest in software development brings me to be an always-curious person in how people's need to help their activities. In a case of developing software, it's not just me to write the code as what the requirements do, it's not. More than that, I love the process when helping them to clarify what they need the most, the process when iterating the blueprints such as databases, experiences, and keep monitoring it to know what comes after, whether problems to solve or innovations to improve.",
 	},
 
 	// articles: {
@@ -33,6 +33,28 @@ const INFO = {
 	// },
 
 	projects: [
+		{
+			title: "ROYALS Champions",
+			description:
+				"Athlete performance ranking system for ROYALS Karate Academy, Bekasi, West Java, Indonesia.",
+			logo: "../royals-champions.jpeg",
+			linkText: "View Project",
+			link: "#",
+			stacks: [
+				{
+					logo: "react",
+					alt: "react"
+				},
+				{
+					logo: "laravel",
+					alt: "laravel"
+				},
+				{
+					logo: "mysql",
+					alt: "mysql"
+				},
+			]
+		},
 		{
 			title: "Jati Prima Furniture",
 			description:

@@ -15,6 +15,18 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="./royals.png"
+								alt="royals_work"
+								className="work-image"
+							/>
+							<div className="work-title">ROYALS Karate Academy</div>
+							<div className="work-subtitle">
+								Web Developer Intern
+							</div>
+							<div className="work-duration">2025 - Present</div>
+						</div>
+						<div className="work">
+							<img
 								src="./jatiprima_work.png"
 								alt="jatiprima_work"
 								className="work-image"
@@ -23,7 +35,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Full Stack Developer
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">2023 - 2024</div>
 						</div>
 						<div className="work">
 							<img
@@ -35,7 +47,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Game Developer Freelancer
 							</div>
-							<div className="work-duration">2023 - Present</div>
+							<div className="work-duration">2023</div>
 						</div>
 						<div className="work">
 							<img
@@ -47,7 +59,7 @@ const Works = () => {
 							<div className="work-subtitle">
 								Software Engineer
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">2019 - 2023</div>
 						</div>
 						<div className="work">
 							<img

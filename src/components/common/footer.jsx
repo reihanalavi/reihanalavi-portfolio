@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						© 2023 reihanalavi.dev. All Rights Reserved.
+						© 2025 by Reihan Alavi. All Rights Reserved.
 					</div>
 				</div>
 			</div>
